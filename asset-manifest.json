@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/test-task-bravo-soft-company/static/css/main.efae1c59.css",
-    "main.js": "/test-task-bravo-soft-company/static/js/main.a14a6a29.js",
+    "main.css": "/test-task-bravo-soft-company/static/css/main.c222a9dc.css",
+    "main.js": "/test-task-bravo-soft-company/static/js/main.dacf9ee4.js",
     "static/js/787.711e9e8b.chunk.js": "/test-task-bravo-soft-company/static/js/787.711e9e8b.chunk.js",
     "index.html": "/test-task-bravo-soft-company/index.html",
-    "main.efae1c59.css.map": "/test-task-bravo-soft-company/static/css/main.efae1c59.css.map",
-    "main.a14a6a29.js.map": "/test-task-bravo-soft-company/static/js/main.a14a6a29.js.map",
+    "main.c222a9dc.css.map": "/test-task-bravo-soft-company/static/css/main.c222a9dc.css.map",
+    "main.dacf9ee4.js.map": "/test-task-bravo-soft-company/static/js/main.dacf9ee4.js.map",
     "787.711e9e8b.chunk.js.map": "/test-task-bravo-soft-company/static/js/787.711e9e8b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efae1c59.css",
-    "static/js/main.a14a6a29.js"
+    "static/css/main.c222a9dc.css",
+    "static/js/main.dacf9ee4.js"
   ]
 }
