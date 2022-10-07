@@ -1,0 +1,34 @@
+.mail__table {
+  margin: 10px auto;
+}
+
+td,
+th {
+  border: 1px solid rgb(190, 190, 190);
+  padding: 10px;
+}
+
+td {
+  text-align: center;
+}
+
+th[scope="col"] {
+  background-color: rgba(85, 80, 80, 0.8);
+}
+
+th[scope="row"] {
+  background-color: rgba(43, 41, 41, 0.8);
+}
+
+caption {
+  padding: 10px;
+  caption-side: bottom;
+}
+
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(200, 200, 200);
+  letter-spacing: 1px;
+  font-family: sans-serif;
+  font-size: .8rem;
+}

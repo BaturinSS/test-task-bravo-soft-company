@@ -1,0 +1,21 @@
+.main__form {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.main__form-input {
+  font-size: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+.main__form-button {
+  width: 30%;
+  padding: 10px;
+  margin: auto;
+  border: 1px solid grey;
+  border-radius: 20px;
+}

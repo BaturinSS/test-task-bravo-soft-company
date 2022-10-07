@@ -1,0 +1,21 @@
+.main__block-button {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  /* border: 1px solid red; */
+}
+
+.main__button {
+  margin: 0;
+  padding: 0;
+  flex: 1;
+  height: 100%;
+  background-color: none;
+  border: 1px solid blueviolet;
+  border-top: none;
+}
+
+.main__button_active {
+  border: none;
+}
